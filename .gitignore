@@ -1,0 +1,20 @@
+# git ignore 
+
+*.obj
+*.OBJ
+*.exe
+*.EXE
+*.crf
+*.CRF
+*.map
+*.MAP
+*.lst
+*.LST
+
+*.zip
+*.7z
+*.doc
+*.docx
+*.png
+*.jpg
+*.jpeg
